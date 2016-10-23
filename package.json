@@ -19,7 +19,8 @@
     "gulp-jshint": "^2.0.1",
     "gulp-nodemon": "^2.2.1",
     "jshint": "^2.9.4",
-    "jshint-stylish": "^2.2.1"
+    "jshint-stylish": "^2.2.1",
+    "moment": "^2.15.1"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
